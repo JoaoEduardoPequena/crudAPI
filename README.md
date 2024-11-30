@@ -9,6 +9,5 @@
    <li>Linguagem de Programação C#</li>
    <li>ORM Entity Frame Work Core 8 </li>
    <li> Fluent Validation </li>
-   <li>Identity Entity Frame Work Core </li>
    <li>SGB SQL Server 2019, para criação do banco de dados</li>
 </ul>
