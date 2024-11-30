@@ -1,4 +1,4 @@
-CRUD API DE PRODUTO E CATEGORIA
+#CRUD API DE PRODUTO E CATEGORIA
 Esta é uma aplicação back-end, (API), feita na versão do .NET CORE 8 , CQRS e Mediator como Padrão Arquitectural
 <h6>Tecnologias Utilizadas:</h6>
 <ul> 
