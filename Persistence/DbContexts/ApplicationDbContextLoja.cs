@@ -11,10 +11,10 @@ namespace Persistence.DbContexts
         {
 
         }
-        //public ApplicationDbContextLoja(DbContextOptions<ApplicationDbContextLoja> options) : base(options) 
-        //{ 
-        
-        //}
+        public ApplicationDbContextLoja(DbContextOptions<ApplicationDbContextLoja> options) : base(options)
+        {
+
+        }
 
         public DbSet<Categoria> Categoria { get; set; }
         public DbSet<Produto> Produto { get; set; }
